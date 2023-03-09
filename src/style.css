@@ -1,0 +1,17 @@
+.form {
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    width:500px;
+
+    border-radius: 1em;
+    
+}
+.input{
+    margin: 10px;
+    width: 260px;
+}
+
+
+.alerta{
+    color:red
+}
